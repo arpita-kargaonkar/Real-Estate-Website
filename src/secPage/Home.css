@@ -1,0 +1,61 @@
+.big-heading
+{
+    font-size: 3.5rem;
+    color:aqua;
+    text-align: center;
+    line-height: 1.25;
+    margin: 5px auto;
+}
+
+.small-heading{
+    color: aquamarine;
+    text-align: center;
+    line-height: 1.25;
+    margin: 5.5px auto;
+}
+
+.form-search{
+    width: 75%;
+    margin: 30px
+}
+
+.prices{
+    color: aliceblue;
+    margin-bottom: 0;
+    margin-top: 30px;
+    font-size:32px ;
+    /* font-size: 3.6vmin;    */
+    /* https://www.sitepoint.com/new-css3-relative-font-size/ */
+    font-weight: 500;
+    text-align: center;
+}
+.prices::after{
+    content:attr(data-end);
+    color: aqua;
+}
+
+.price_detail{
+    color: rgb(123, 122, 122);
+    font-size: 15px;
+    /* font-size: 2vmin; */
+    text-align: center;
+}
+
+.sponser{
+    background-color: rgb(98, 225, 248);
+    
+    
+}
+.sponser2{
+    width: 80%;
+   
+}
+.sponser2 div{
+    margin:  auto;
+    padding: 4.5%;
+}
+
+.sponser img{
+    filter: grayscale(1);
+    margin: auto;
+}

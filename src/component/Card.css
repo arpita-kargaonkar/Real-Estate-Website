@@ -1,0 +1,33 @@
+.card{
+    display: inline-block;
+    background-color: transparent !important; 
+    margin: 20px;
+    border: 0.9px solid rgba(238, 235, 235, 0.1) !important;
+    border-radius: 22px !important;
+    width: 14rem;
+    transition: all 0.5s;
+}
+ 
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} 
+
+.card h6{
+    color:rgb(203, 255, 197);
+    font-weight: 600;
+    font-size: 25px;
+    margin: 7px;
+}
+
+.card h4{
+    color:  #00458B;
+    font-weight: 800;
+}
+.card p{
+    color: rgb(226, 226, 226);
+}
+
+.card button{
+    width: 100%;
+    margin: 5px auto;
+}

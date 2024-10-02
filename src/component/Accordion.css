@@ -1,0 +1,8 @@
+.accordion-item button{
+    box-shadow: 0 4px 8px 0 rgba(209, 255, 253, 0.5), 0 6px 20px 0 hsla(190, 86%, 80%, 0.5);
+}
+
+.accordion-header{
+    font-weight: 500px;
+    color: white;
+}

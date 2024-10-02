@@ -1,0 +1,31 @@
+
+ .secMain{
+    
+    background-color:  rgb(98, 225, 248,0.9);
+    /* opacity: 0.7; */
+ }
+ 
+ .secMainp{
+    color: rgb(255, 255, 255,0.8);
+    line-height: 1.25;
+    margin: 5.5px auto;
+    font-size: 21px;
+    /* font-size: 2.5vmin; */
+ }
+
+ .secMain h2{
+    font-weight: 900;
+    color: #00458B;
+    font-size: 35px;
+    /* font-size: 3.5vmin; */
+    margin: 15px 0px; 
+     
+ }
+
+ .secMainbutton{
+   margin: 20px 10px !important;
+ }
+
+ .secMainselect{
+   margin: 20px 10px !important;
+ } 

@@ -1,0 +1,33 @@
+#navbarSupportedContent a{
+     
+    
+    font-weight: 600;
+    line-height: 1;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    color: #00458B;
+     
+    padding: 10px 18px 0px 0px;
+    transition: 1s ease-out all;
+
+}
+ 
+
+#navbarSupportedContent a:hover{
+    text-decoration: underline;
+}
+
+.navbar{
+    background-color: rgba(255,255,255,0.95);
+}
+
+.navbar-toggler img {
+    margin: 0px 2px;
+}
+.navbar-toggler img:hover{
+    transform: scaleX(-1);
+}
+
+ 

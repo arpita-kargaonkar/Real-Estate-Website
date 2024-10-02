@@ -1,0 +1,24 @@
+.contact{
+    background-color:rgb(98, 225, 248);
+}
+
+.contact h2{
+    font-weight: 900;
+    color: #00458B;
+    font-size: 35px;
+    /* font-size: 3.5vmin; */
+    margin: 15px 0px; 
+}
+
+.contact p{
+    color: rgb(255, 255, 255,0.8);
+    line-height: 1.25;
+    margin: 5.5px auto;
+    font-size: 21px;
+    /* font-size: 2.5vmin; */
+}
+
+.contact h4{
+    margin: 10px ;
+    font-weight: 800;
+}
