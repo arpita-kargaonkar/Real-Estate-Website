@@ -8,7 +8,7 @@ function Getstarted(){
                <p>Subscribe and find super attractive price quotes from us.
 Find your residence soon</p>
 <button class="btn btn-light btn-outline-success">Subscribe</button>
-<span><br/>@copyright: littleSparrow</span>
+ 
            </div>
         </div>
     );
